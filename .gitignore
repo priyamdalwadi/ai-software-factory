@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.db
+*.db-*
+workspaces/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.uv-cache/
+dist/
+*.egg-info/
+audit-requirements.txt
