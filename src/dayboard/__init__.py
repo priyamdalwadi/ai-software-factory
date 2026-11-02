@@ -1,0 +1,1 @@
+"""Dayboard web application."""

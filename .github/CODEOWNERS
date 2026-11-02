@@ -1,4 +1,3 @@
-# Enforcement requires repository rules and an eligible human reviewer.
 /.github/ @priyamdalwadi
 /pyproject.toml @priyamdalwadi
 /uv.lock @priyamdalwadi
